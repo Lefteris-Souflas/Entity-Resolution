@@ -35,7 +35,7 @@ This assignment tackles various challenges in Entity Resolution using the provid
 Ensuring the reproducibility of the results presented in this report is of paramount importance. To facilitate the readers' ability to reproduce the outcomes, the following steps provide guidance on accessing, setting up, and executing the code.
 
 ### Accessing the Code
-The complete code used for Tasks A, B, C, and D is available in the child folders `Code` and `Jupyter` of the root folder `f2822217` (AUEB student ID). Readers are encouraged to download the code files from the provided source.
+The complete code used for Tasks A, B, C, and D is available in the child folders `Code` and `Jupyter` of the root folder. Readers are encouraged to download the code files from the provided source.
 
 ### Environment Setup
 Depending on the specific tasks and functions, certain libraries and dependencies are required. Ensure that you have the necessary libraries installed.
