@@ -1,7 +1,7 @@
 # Entity Resolution
 
 ## Introduction
-This assignment tackles various challenges in Entity Resolution using the provided ER-Data.csv file. Tasks A to D collectively aim to enhance data quality and accuracy through schema-agnostic methods, pairwise comparisons, Meta-Blocking graph construction, and similarity computation.
+This assignment tackles various challenges in Entity Resolution using the provided `ER-Data.csv` file. Tasks A to D collectively aim to enhance data quality and accuracy through schema-agnostic methods, pairwise comparisons, Meta-Blocking graph construction, and similarity computation.
 
 ## Task A [30 points]
 - Implement Token Blocking method as a schema-agnostic approach.
