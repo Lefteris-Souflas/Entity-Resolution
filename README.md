@@ -1,5 +1,7 @@
 # Entity Resolution
 
+Assignment 2 for the Advanced Data Engineering Course of AUEB's MSc in Business Analytics
+
 ## Introduction
 This assignment tackles various challenges in Entity Resolution using the provided `ER-Data.csv` file. Tasks A to D collectively aim to enhance data quality and accuracy through schema-agnostic methods, pairwise comparisons, Meta-Blocking graph construction, and similarity computation.
 
